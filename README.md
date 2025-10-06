@@ -27,6 +27,7 @@ Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy
 Outdoor Recreation Website Pages [link]
 - HTML coded website for Virginia Tech's on-campus outdoor recreation facility. Application aimed to simplify rentals, orders, event registration, administrative tasks, and admin/customer log-ins.
 - As part of a group project, my pages involved inventory management, database editing, and inventory visualization.
+- Created with HTML, JavaScript, CSS, and Bootstrap. Database based in SQL.
 
 ---
 
