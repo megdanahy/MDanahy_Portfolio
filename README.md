@@ -2,6 +2,9 @@
 
 Welcome to my project portfolio!  
 I’m a Business Analytics & Decision Support Specialist with experience in **data analysis, database management, and web development**. This portfolio highlights selected projects that demonstrate my skills in **Excel, SQL, Python, and web-based decision support systems**.  
+---
+
+## 🐍 Python Projects
 
 ---
 
