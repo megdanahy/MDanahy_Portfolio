@@ -5,11 +5,15 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 ---
 
 ## 🐍 Python Projects
- https://github.com/megdanahy/Nail-Polish-Selection
+ - https://github.com/megdanahy/Nail-Polish-Selection
+    - Created with functionality in mind, an if-else tree to assist me in choosing my nail polish color when I can't decide.
 
 ---
 
 ## 📊 Excel Projects
+
+- https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation
+    - Created with Excel VBA, Macros, and simulated Amazon categorical sales data. 
 
 ---
 
