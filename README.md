@@ -12,7 +12,7 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 
 ## 📊 Excel Projects
 
-- https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation
+! Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation]
     - Created with Excel VBA, Macros, and simulated Amazon categorical sales data. 
 
 ---
@@ -22,6 +22,8 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 ---
 
 ## 💻 Web Development Projects
+
+
 
 ---
 
