@@ -5,15 +5,16 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 ---
 
 ## 🐍 Python Projects
- - https://github.com/megdanahy/Nail-Polish-Selection
-    - Created with functionality in mind, an if-else tree to assist me in choosing my nail polish color when I can't decide.
+
+Nail Polish Selection Decision Tree [https://github.com/megdanahy/Nail-Polish-Selection]
+- Created with functionality in mind, an if-else tree to assist me in choosing my nail polish color when I can't decide.
 
 ---
 
 ## 📊 Excel Projects
 
-! Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation]
-    - Created with Excel VBA, Macros, and simulated Amazon categorical sales data. 
+Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation]
+- Created with Excel VBA, Macros, and simulated Amazon categorical sales data. 
 
 ---
 
@@ -23,7 +24,9 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 
 ## 💻 Web Development Projects
 
-
+Outdoor Recreation Website Pages [link]
+- HTML coded website for Virginia Tech's on-campus outdoor recreation facility. Application aimed to simplify rentals, orders, event registration, administrative tasks, and admin/customer log-ins.
+- As part of a group project, my pages involved inventory management, database editing, and inventory visualization.
 
 ---
 
