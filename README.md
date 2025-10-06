@@ -5,6 +5,7 @@ I’m a Business Analytics & Decision Support Specialist with experience in **da
 ---
 
 ## 🐍 Python Projects
+ https://github.com/megdanahy/Nail-Polish-Selection
 
 ---
 
