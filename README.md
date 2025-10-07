@@ -1,7 +1,8 @@
 # 📂 Meaghan Danahy – Project Portfolio
 
-## Welcome to my project portfolio!  
-### I’m an aspiring Business & Marketing Data Analyst with experience in **data analysis, database management, and web development**. This portfolio highlights selected projects that demonstrate my skills in **Excel, SQL, Python, and web-based decision support systems**.  
+## Welcome to my portfolio!
+
+I’m an aspiring Business & Marketing Data Analyst with experience in **data analysis, database management, and web development**. This portfolio highlights selected projects that demonstrate my skills in **Excel, SQL, Python, web development, and general web-based decision support analytics**.  
 ---
 
 ## 🐍 Python Projects
