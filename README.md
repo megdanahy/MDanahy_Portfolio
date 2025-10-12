@@ -3,6 +3,7 @@
 # Welcome!
 
 ### I’m an aspiring Business & Marketing Data Analyst with experience in **data analysis, database management, and web development**. This portfolio highlights selected projects that demonstrate my skills in **Excel, SQL, Python, web development, and general web-based decision support analytics**.  
+
 ---
 
 ## 🐍 Python Projects
