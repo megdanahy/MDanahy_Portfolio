@@ -8,22 +8,30 @@
 
 ## 🐍 Python Projects
 
-Music Analytics- The Beatles Discography []
+Music Analytics- The Beatles Discography [https://github.com/megdanahy/Music_Analytics_Beatles]
 - Utilizing Kaggle data files, I analyzed the musical trends of The Beatles to understand how their musicianship changed over time. I've utilized data points like danceability, energy, liveness, valence per album to analyze one of my favorite bands.
+- This project displays ETL, python, analysis, and data visualization skills.
 
 Nail Polish Selection Decision Tree [https://github.com/megdanahy/Nail-Polish-Selection]
 - Created with functionality in mind, an if-else tree to assist me in choosing my nail polish color when I can't decide.
+- This is a very simple program that demonstrates base line python abilities.
 
 ---
 
 ## 📊 Excel Projects
 
 Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation]
-- Created with Excel VBA, Macros, and simulated Amazon categorical sales data. 
+- A simulated in-class project that worked to utilize categorical sales data to encourage optimized investment allocation for maximum ROI.
+- Created with Excel, VBA, and Excel macros.
 
 ---
 
 ## 🗄️ SQL & Database Projects
+
+Higher Education Enrollment Analytics []
+- WORK IN PROGRESS
+- Utilizing IPED National Center for Education Statistics' enrollment data from 2024 to gain insight on enrollment trends from univarsities across the nation.
+- An SQL/Python project to practice and demonstrate my skills in SQL, ETL, and python analytics. working to remain familiar with SQL commands, JOINS, Database Management, and data normalization.
 
 ---
 
