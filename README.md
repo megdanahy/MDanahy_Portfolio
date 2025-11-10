@@ -4,15 +4,17 @@
 
 ### I’m an aspiring Data Analyst with experience in **data visualization, database management, and web-based decision support systems**. This portfolio highlights selected projects that demonstrate my skills in **Excel, SQL, Python, web development, and general decision support analytics**.  
 
+Click the title of any of these projects to be brought to them!
+
 ---
 
 ## 🐍 Python Projects
 
-Music Analytics- The Beatles Discography [https://github.com/megdanahy/Music_Analytics_Beatles]
+[Music Analytics- The Beatles Discography](https://github.com/megdanahy/Music_Analytics_Beatles)
 - Utilizing Kaggle data files, I analyzed the musical trends of The Beatles to understand how their musicianship changed over time. I've utilized data points like danceability, energy, liveness, valence per album to analyze one of my favorite bands.
 - This project displays ETL, python, analysis, and data visualization skills.
 
-Nail Polish Selection Decision Tree [https://github.com/megdanahy/Nail-Polish-Selection]
+[Nail Polish Selection Decision Tree](https://github.com/megdanahy/Nail-Polish-Selection)
 - Created with functionality in mind, an if-else tree to assist me in choosing my nail polish color when I can't decide.
 - This is a very simple program that demonstrates base line python abilities.
 
@@ -20,7 +22,7 @@ Nail Polish Selection Decision Tree [https://github.com/megdanahy/Nail-Polish-Se
 
 ## 📊 Excel Projects
 
-Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation]
+[Amazon Sales Forecasting & Optimization Simulation](https://github.com/megdanahy/Business_Forecasting_Optimization_Simulation)
 - A simulated in-class project that worked to utilize categorical sales data to encourage optimized investment allocation for maximum ROI.
 - Created with Excel, VBA, and Excel macros.
 
@@ -37,7 +39,7 @@ Higher Education Enrollment Analytics []
 
 ## 💻 Web Development Projects
 
-Outdoor Recreation Website Pages [https://github.com/megdanahy/VentureOut_Web_App]
+[Outdoor Recreation Website Pages](https://github.com/megdanahy/VentureOut_Web_App)
 - HTML coded website for Virginia Tech's on-campus outdoor recreation facility. Application aimed to simplify rentals, orders, event registration, administrative tasks, and admin/customer log-ins.
 - As part of a group project, my pages involved inventory management, database editing, and inventory visualization.
 - Created with HTML, JavaScript, CSS, and Bootstrap. Database based in SQL.
