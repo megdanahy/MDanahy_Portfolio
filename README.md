@@ -31,7 +31,7 @@ Amazon Sales Forecasting & Optimization Simulation [https://github.com/megdanahy
 Higher Education Enrollment Analytics []
 - WORK IN PROGRESS
 - Utilizing IPED National Center for Education Statistics' enrollment data from 2024 to gain insight on enrollment trends from univarsities across the nation.
-- An SQL/Python project to practice and demonstrate my skills in SQL, ETL, and python analytics. working to remain familiar with SQL commands, JOINS, Database Management, and data normalization.
+- An SQL/Python project to practice and demonstrate my skills in SQL, ETL, and python analytics. Working to maintain familiarity with SQL commands, JOINS, Database Management, and data normalization.
 
 ---
 
